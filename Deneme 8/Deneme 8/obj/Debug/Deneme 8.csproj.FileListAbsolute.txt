@@ -1,0 +1,7 @@
+C:\Users\zzuur\source\repos\Deneme 8\Deneme 8\bin\Debug\Deneme 8.exe.config
+C:\Users\zzuur\source\repos\Deneme 8\Deneme 8\bin\Debug\Deneme 8.exe
+C:\Users\zzuur\source\repos\Deneme 8\Deneme 8\bin\Debug\Deneme 8.pdb
+C:\Users\zzuur\source\repos\Deneme 8\Deneme 8\obj\Debug\Deneme 8.csprojAssemblyReference.cache
+C:\Users\zzuur\source\repos\Deneme 8\Deneme 8\obj\Debug\Deneme 8.csproj.CoreCompileInputs.cache
+C:\Users\zzuur\source\repos\Deneme 8\Deneme 8\obj\Debug\Deneme 8.exe
+C:\Users\zzuur\source\repos\Deneme 8\Deneme 8\obj\Debug\Deneme 8.pdb
